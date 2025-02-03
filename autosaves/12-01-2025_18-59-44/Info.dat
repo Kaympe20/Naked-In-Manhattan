@@ -1,0 +1,56 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "Naked In Manhattan",
+  "_songSubName" : "",
+  "_songAuthorName" : "Chappell Roan",
+  "_levelAuthorName" : "Kaympe",
+  "_beatsPerMinute" : 118,
+  "_previewStartTime" : 75,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cover.png",
+  "_songFilename" : "song.ogg",
+  "_environmentName" : "InterscopeEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+  ],
+  "_colorSchemes" : [
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.11.793"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.525,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "Make It Cinematic",
+            "_colorLeft" : {"r":1,"g":0.958,"b":0.283},
+            "_colorRight" : {"r":0.198,"g":0.562,"b":1},
+            "_envColorLeft" : {"r":1,"g":0.975,"b":0.588},
+            "_envColorRight" : {"r":0.198,"g":0.562,"b":1},
+            "_obstacleColor" : {"r":1,"g":0.958,"b":0.283},
+            "_suggestions" : [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
